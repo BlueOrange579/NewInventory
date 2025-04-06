@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1743915103 source:/home/blueoranges/Dev/NewInventory/src/main.cpp
+	"../include/sqldriver.h"
+
+1743915141 /home/blueoranges/Dev/NewInventory/include/sqldriver.h
+	<iostream>
+	<string>
+	<mysql_driver.h>
+	<mysql_connection.h>
+	<cppconn/statement.h>
+	<cppconn/resultset.h>
+
+1743910360 source:/home/blueoranges/Dev/NewInventory/src/sqldriver.cpp
+	"sqldriver.h"
+	<iostream>
+	<string>
+	<mysql_driver.h>
+	<mysql_connection.h>
+	<cppconn/statement.h>
+	<cppconn/resultset.h>
+	<cppconn/exception.h>
+
